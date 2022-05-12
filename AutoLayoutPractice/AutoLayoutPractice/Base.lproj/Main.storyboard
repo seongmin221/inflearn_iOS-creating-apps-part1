@@ -58,6 +58,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="300" id="miR-33-OH8"/>
                                 </constraints>
+                                <variation key="heightClass=compact-widthClass=regular" spacing="20"/>
                             </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
